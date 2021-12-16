@@ -1,2 +1,3 @@
 # hello-world
-learn basic
+
+Trying to explore information Technology
